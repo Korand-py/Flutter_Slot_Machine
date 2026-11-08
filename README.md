@@ -18,6 +18,6 @@
 
 ```
 1. git clone <url>
-2. cd slot_machinne
+2. cd slot_machine
 3. flutter run chrome
 ```
